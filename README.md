@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FDRender
 
 ### A real-time 4D volumetric renderer
@@ -117,3 +118,7 @@ No prior implementation of this approach is known to exist.
 ## License
 
 MIT
+=======
+# Franklin
+4D graphics rendering engine with custom 4D -> 3D -> 2D graphics pipeline. Renders 4D scenes onto screens using a volumetric fog representation of a 3D projection of a 4D scene. The 3D projection is the image a 4D camera or eye would receive.
+>>>>>>> 69ac802bf886af3c5697068d8cc979acd4ef32c8
