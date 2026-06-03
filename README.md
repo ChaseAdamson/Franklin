@@ -3,6 +3,8 @@
 
 ### A real-time 4D volumetric renderer
 
+[![Franklin Demo](https://img.youtube.com/vi/9hWsoGx8MtI/0.jpg)](https://youtu.be/9hWsoGx8MtI)
+
 ---
 
 ## Have you ever wondered what it would be like to see through the eyes of a 4D creature?
