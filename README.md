@@ -113,8 +113,6 @@ This project started as a question: what would a 4D creature actually see? Not a
 
 The answer is a 3D retinal volume. This engine renders that volume in real time using GPU compute shaders, making it possible to navigate a 4D scene and observe it the way its native inhabitants would.
 
-No prior implementation of this approach is known to exist.
-
 ---
 
 ## License
