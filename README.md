@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # FDRender
 
 ### A real-time 4D volumetric renderer
